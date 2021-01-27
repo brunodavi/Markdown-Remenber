@@ -32,7 +32,7 @@
 
 - [ ] List 1
 - [x] List 2
-
+    
 ---
 
 # Links
@@ -42,5 +42,9 @@
 
 # Marks
 
-**Bold**
-*Italic*
+> Quote<br>
+**Bold**<br>
+*Italic_<br>
+`Code`
+
+---
