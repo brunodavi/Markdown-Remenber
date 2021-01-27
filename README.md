@@ -84,7 +84,7 @@ for (i in hw) {
 
 ---
 
-# MAnual PDF
+# Manual PDF
 
 [guia-markdown.pdf](https://raw.githubusercontent.com/gustavoguanabara/git-github/master/manuais-PDF/guia-markdown.pdf)
 
