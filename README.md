@@ -48,3 +48,39 @@
 `Code`
 
 ---
+
+# Image
+
+![GitHub](https://icon-library.com/images/github-icon-png/github-icon-png-15.jpg)
+
+---
+
+# Table
+
+Fruits|Price
+---|---
+Banana|U$1,00
+Apple|U$5,00
+Strawberry|U$2,50
+
+---
+
+# Code
+
+```
+hw = 'Hello, World!!!'
+for (i in hw) {
+
+  console.log(hw[i])
+
+}
+```
+
+---
+
+# Emoji
+:hand:, :earth_americas:
+[More Here...](https://github.com/ikatyang/emoji-cheat-sheet)
+
+---
+
